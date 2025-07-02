@@ -4,9 +4,9 @@
 ---
 
 ## 👋 About Me
-I’m a third-year Mobile Computing Engineering student at Mumbai University (APSIT) with a passion for technology, innovation, and community building. I thrive on turning ideas into real-world solutions—whether through code, events, or collaborations.
+I’m a Final-year Computer Engineering student at Mumbai University (APSIT) with a passion for technology, innovation, and community building. I thrive on turning ideas into real-world solutions—whether through code, events, or collaborations.
 
-- 🎓 **Education:** B.E. in Mobile Computing Engineering, APSIT, Sem 6
+- 🎓 **Education:** B.E. in Computer Engineering, APSIT, Sem 7
 - 🔭 **Currently:** Serving as Event Manager for our college technical fest and building my portfolio for an internship in software development, AI, or data science
 - 🌱 **Learning:** Advanced Flutter & Firebase patterns, AI/ML frameworks, DevOps practices
 - 🤝 **Looking to collaborate on:** Open-source projects, hackathons, tech workshops
